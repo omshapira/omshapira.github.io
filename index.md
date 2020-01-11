@@ -4,7 +4,7 @@
 
 ### Data Science Projects 
 
-[Automated Machine Learning Regression Analysis with Housing Prices Dataset](https://nbviewer.jupyter.org/github/omshapira/Automated_ML_Regression_Analysis/blob/master/Regression_Analysis.html)
+[Automated Machine Learning Regression Analysis with Housing Prices](https://nbviewer.jupyter.org/github/omshapira/Automated_ML_Regression_Analysis/blob/master/Regression_Analysis.html)
 <img src="images/houses.jpg?raw=true"/>
 
 ---
