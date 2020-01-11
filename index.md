@@ -2,31 +2,21 @@
 
 ---
 
-### Category Name 1 
+### Data Science Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Automated Machine Learning Regression Analysis with Housing Prices Dataset](https://nbviewer.jupyter.org/github/omshapira/Automated_ML_Regression_Analysis/blob/master/Regression_Analysis.html)
+<img src="images/houses.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Predicting Uber+Lyft Prices with Machine Learning Regression](https://nbviewer.jupyter.org/github/omshapira/Uber_Lyft_Analysis/blob/master/Ride_Sharing_Prices.html)
+<img src="images/uber_lyft.jpg?raw=true"/>
 
 ---
+[Analysis of Movie Box Office Profits](https://rawgit.com/omshapira/Movie_Analysis_GIT/master/Movie_Analysis_Summary.html)
+<img src="images/movies.jpg?raw=true"/>
 
+---
 
 
 
