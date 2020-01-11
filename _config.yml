@@ -1,11 +1,17 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Oren Shapira # your name (or website title) here
+logo: "/images/Oren Shapira.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  About myself: I have nearly a decade of experience as a Data and Informatics analyst in the healthcare sector. 
+  Industries I've worked in include management conulting, software development, and, most recently, applied research.
+  In each role, I've specialized in data analysis and programming, ETL development, and client support (specifications and reporting). 
+  
+<br><br>
+  
+  I am currently wrapping up a Masters of Science degree in Applied Data Analytics at Boston University, which has built on my passion for Data Science.
+  I encourage you to browse some of the Data Analysis and Machine Learning projects I've worked on.
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/oren-shapira-4a222617//">View My LinkedIn Profile</a> 
+  <a href="https://github.com/omshapira//">View My Github Portfolio</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
