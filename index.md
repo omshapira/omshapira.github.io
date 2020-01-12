@@ -15,7 +15,7 @@ Below, I've linked some data science projects I've done in school and my spare t
 [Automated Machine Learning Regression Analysis with Housing Prices](https://github.com/omshapira/Automated_ML_Regression_Analysis/blob/master/README.md)
 <br><br>
 A Python program that automates regression analysis and model optimization for any dataset
-<br><br>
+
 <img src="images/houses.jpg?raw=true"/>
 
 ---
@@ -23,21 +23,18 @@ A Python program that automates regression analysis and model optimization for a
 [Predicting Uber+Lyft Prices with Machine Learning Regression](https://github.com/omshapira/Uber_Lyft_Analysis/blob/master/README.md)
 <br><br>
 Comparing performance of linear/polynomial, random forest, and gradient-boosting regression models on Uber vs. Lyft prices
-<br><br>
 <img src="images/uber_lyft.jpg?raw=true"/>
 
 ---
 [Analysis of Movie Box Office Profits](https://github.com/omshapira/Movie_Analysis_GIT/blob/master/README.md)
 <br><br>
 Using A/B testing for ANOVA and linear regression models to determine significant variables in movie profits  
-<br><br>
 <img src="images/movies.jpg?raw=true"/>
 
 ---
 [Predicting NFL QB Performance](https://github.com/omshapira/NFL_QB_Performance/blob/master/README.md)
 <br><br>
 [In progress] Used ML classification techniques to predict the game performance of QBs based on weather and opponent defense. 
-<br><br>
 <img src="images/tom_brady.jpg?raw=true"/>
 
 
