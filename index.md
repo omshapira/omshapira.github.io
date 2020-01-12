@@ -13,6 +13,9 @@ Below, I've linked some data science projects I've done in school and my spare t
 ### Data Science Projects 
 
 [Automated Machine Learning Regression Analysis with Housing Prices](https://github.com/omshapira/Automated_ML_Regression_Analysis/blob/master/README.md)
+<br><br>
+A Python program that automates regression analysis and model optimization for any dataset
+<br><br>
 <img src="images/houses.jpg?raw=true"/>
 
 ---
