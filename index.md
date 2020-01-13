@@ -6,7 +6,7 @@
 
 About me: I have a passion for data analysis, and have had the fortune of doing it professionally for nearly a decade. Most recently, I am a research analyst for FDA's Sentinel Initiative program, which queries against large pools of claims/EHR data to perform active surveillance and risk identification on post-market medical products. I am also at the tail-end of my part-time Masters of Science degree program in Applied Data Analytics at Boston University.
 
-My prior work experience includes being an ETL developer for a healthcare analytics software company, and an analyst for a leading Health Benefits management consulting company. Through my education and various roles within the healtchare sector, I have developed expertise in data analysis and programming (Python, R, SQL, SAS), ETL management and QC practices in software development, client-facing (managing specifications and presenting results), and interpreting claims/clinical data.
+My prior work experience includes being an ETL developer for a healthcare analytics software company, and an analyst for a leading health benefits management consulting company. Through my education and various roles within the healtchare sector, I have developed expertise in data analysis and programming (Python, R, SQL, SAS), ETL management and QC practices in software development, client-facing (managing specifications and presenting results), and interpreting claims/clinical data.
 
 Below, I've linked some data science projects I've done in school and my spare time. I encourage you to check them out, and stay tuned for more to come!
 
